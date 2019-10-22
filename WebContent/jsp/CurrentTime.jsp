@@ -18,9 +18,9 @@
 			<div class="col" id="left-panel">Left Panel</div>
 			<div class="col" id="main-panel">
 				<h2 class="text-success">Current Time</h2>
-				<p>Current time is: <%= new Date() %>></p>
+				<p>Current time is: <%= new Date() %></p>
 			</div>
-			<div class="col" id="right-panel"></div>
+			<div class="col" id="right-panel">Right Panel</div>
 		</div>
 
 	</div>
